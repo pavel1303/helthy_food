@@ -1,0 +1,12 @@
+
+.ingredients:hover {
+    cursor: pointer;
+}
+.ingredients-list {
+    padding-left: 20px;
+}
+
+.arrow {
+    padding: 0 5px ;
+    font-size: 10px;
+}

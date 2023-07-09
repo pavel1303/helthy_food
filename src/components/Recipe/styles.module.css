@@ -1,0 +1,7 @@
+.recipe {
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid salmon;
+    gap: 5px;
+}
